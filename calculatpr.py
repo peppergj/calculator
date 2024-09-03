@@ -1,4 +1,3 @@
-
 print("what do you want? ")
 print("add ")
 print("multiply ")
