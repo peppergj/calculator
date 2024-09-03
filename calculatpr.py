@@ -17,3 +17,4 @@ while True:
            print(number1, "-", number2, "=", (number1 - number2))
         elif choice == 'divide':
            print(number1, "/", number2, "=", (number1 / number2))
+        break
